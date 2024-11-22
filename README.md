@@ -5,3 +5,6 @@
 
 ## Documentation 
 > Documentation: __Be here soon__
+
+## Resources
+> I used a [CSS reset stylesheet](https://www.joshwcomeau.com/css/custom-css-reset/)
