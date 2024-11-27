@@ -1,0 +1,15 @@
+@import 'variables';
+@import 'reset';
+@import 'components';
+
+//  #0077BE
+body {
+    line-height: $line-height;
+    -webkit-font-smoothing: antialiased;
+    height: 100%;
+    background-color: #8899e4;
+}
+
+html {
+    font-family: $font-family;
+}
